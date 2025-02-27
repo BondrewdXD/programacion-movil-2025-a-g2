@@ -14,7 +14,7 @@ En esta semana, nos enfocamos en la explicación y comprensión de lo que es una
 - Como tarea, se nos solicitó empezar a desarrollar nuestras propias **historias de usuario** para el proyecto y documentarlas en nuestro tablero de **Trello**.
 
 ## Posibles planes para la siguiente semana
-- Se nos reitera la lectura del documento **Desarrollo Ágil**. [Desarrollo_Agil]{\programacion-movil-2025-a-g2\3_week\Desarollo Ágil.pdf} 
+- Se nos reitera la lectura del documento **Desarrollo Ágil**. [Desarrollo_Agil]{https://github.com/BondrewdXD/programacion-movil-2025-a-g2/blob/feature/activity/3_week/Desarrollo%20%C3%81gil.pdf} 
 - Continuar desarrollando y documentando las historias de usuario para el proyecto en el tablero de Trello.
 - Empezar a vincular las historias de usuario con las funcionalidades del proyecto y asignar tareas específicas.
 - Asegurarse de tener claras las prioridades de las historias y las dependencias entre ellas.
