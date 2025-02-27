@@ -15,10 +15,7 @@ En esta primera semana de la clase **Programación Móvil G2**, se nos presentó
 - Socialización del **Syllabus** de la materia, lo que nos permitió conocer los temas y estructura del curso para este semestre.
 - Realización de la lectura del documento **Desarrollo Ágil**, que será revisado la semana 3.
 
-## Problemas encontrados
-- No se presentaron problemas técnicos o de contenido durante esta semana, ya que la tarea fue principalmente registrar el usuario de GitHub y familiarizarnos con comandos básicos de Git, lo cual fue un buen punto de partida.
-
-## Plan para la siguiente semana
+## Posibles planes para la siguiente semana
 - Seguir profundizando en los conceptos de Git y empezar a aplicar lo aprendido en el proyecto.
 - Prepararse para la lectura de **Desarrollo Ágil** que se revisará en la semana 3.
 - Empezar a configurar el repositorio con las primeras carpetas y archivos, tal como lo indicó el profesor.
