@@ -14,6 +14,7 @@ En esta semana, nos enfocamos en la explicación y comprensión de lo que es una
 - Como tarea, se nos solicitó empezar a desarrollar nuestras propias **historias de usuario** para el proyecto y documentarlas en nuestro tablero de **Trello**.
 
 ## Posibles planes para la siguiente semana
+- Se nos reitera la lectura del documento **Desarrollo Ágil**. [Desarrollo_Agil]{C:\Users\veraj\Downloads\Desarrollo Agil.pdf} 
 - Continuar desarrollando y documentando las historias de usuario para el proyecto en el tablero de Trello.
 - Empezar a vincular las historias de usuario con las funcionalidades del proyecto y asignar tareas específicas.
 - Asegurarse de tener claras las prioridades de las historias y las dependencias entre ellas.
