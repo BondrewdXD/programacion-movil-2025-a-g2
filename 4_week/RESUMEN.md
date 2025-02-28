@@ -18,6 +18,7 @@ En esta semana, se revisaron las **Historias de Usuario (HU)** y se nos proporci
     - Funcionalidad desarrollada y probada, revisión de código, demostración al Product Owner y documentación actualizada.
   
 - **Ejercicio práctico**: Realización de un **mockup** para la historia de usuario del "Carrito de Compras". Se nos dio libertad para diseñar el mockup de la interfaz, el cual fue revisado durante la clase.
+[Link Mockup](https://www.figma.com/design/Pl9g1fUwRzRqf9GhaI0du5/Trabajo_PM?node-id=0-1&t=ELvRK5Jt8ObTKWah-1)
   
 - Se nos introdujo a **Figma**, una herramienta que utilizaremos para diseñar los mockups de nuestras aplicaciones. Se abordará más a fondo la próxima semana.
 
