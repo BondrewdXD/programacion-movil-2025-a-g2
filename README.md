@@ -34,3 +34,8 @@ Una vez completado el curso Fundamentos de diseño de experiencias de usuario, d
 
 Los conocimientos y las habilidades de estos cursos se basan unos en otros, por lo que SkillsBuild recomienda completar los cursos en el orden en que se presentan.
 
+## Pantallazos Módulo Completo
+
+![Curso_Final](image.png)
+
+![Credly_Credencial](image-1.png)
