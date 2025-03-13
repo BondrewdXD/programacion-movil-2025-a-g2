@@ -13,6 +13,13 @@ En esta semana, nos enfocamos en la explicación y comprensión de lo que es una
 - Se realizó un ejemplo práctico con la **gestión de ventas de un supermercado** (Carrito de Compras) para entender cómo se organiza una historia de usuario en un tablero.
 - Como tarea, se nos solicitó empezar a desarrollar nuestras propias **historias de usuario** para el proyecto y documentarlas en nuestro tablero de **Trello**.
 
+# Configuración de Trello para la Documentación del Proyecto
+
+El día de hoy vimos cómo configurar Trello y la estructura que vamos a manejar a lo largo del corte para la documentación de nuestro proyecto en la clase de programación móvil.
+
+Mediante este código pueden encontrar la documentación de nuestro proyecto: [Trello - Actividad To-Do List](https://trello.com/invite/b/67b4c77544e7adfe122f89b4/ATTI794a27c57f803c84dfe5dbaeb68278d0CBDE271B/actividad-trello-creacion-to-do-list)
+
+
 ## Posibles planes para la siguiente semana
 - Se nos reitera la lectura del documento **Desarrollo Ágil**.
 [Desarrollo_Agil](https://github.com/BondrewdXD/programacion-movil-2025-a-g2/blob/feature/activity/3_week/Desarrollo%20%C3%81gil.pdf)
