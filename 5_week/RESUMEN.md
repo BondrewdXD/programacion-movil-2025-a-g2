@@ -22,6 +22,7 @@ El enlace al tablero de **Trello** con las HU documentadas es el siguiente:
 
 El enlace al diseño hecho en **Figma** con la HU3 registrada es el siguiente:
 [Figma - Aplicación Móvil para la Gestión y Control de Vuelos NekoSKY](https://www.figma.com/design/dMX86EDavpzB7PAgCQkFbm/APP_NEKOSKY?node-id=0-1&t=JMswk9Sm1IGMLtAK-1)
+
 ## Tareas realizadas
 - Estudio de la problemática del aeropuerto y análisis de las necesidades de un sistema móvil para la gestión de vuelos.
 - Se documentaron las tres historias de usuario (HU) en el tablero de Trello:
