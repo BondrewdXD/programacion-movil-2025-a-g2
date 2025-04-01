@@ -1,0 +1,11 @@
+<h2>Registro de Recepcionista</h2>
+<app-persona></app-persona> <!-- 👈 Mostramos el formulario de PersonaComponent -->
+<form [formGroup]="recepcionistaForm">
+    <label>Horario Laboral:
+        <input type="text" formControlName="horarioLaboral">
+      </label>
+  
+      <label>Extensión Telefónica:
+        <input type="text" formControlName="extensionTelefonica">
+      </label>
+</form>

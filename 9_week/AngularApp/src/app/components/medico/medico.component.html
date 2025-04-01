@@ -1,0 +1,12 @@
+<h2>Registro de Médico</h2>
+<app-persona></app-persona>
+
+<form [formGroup]="medicoForm">
+  <label>Especialidad:
+    <input type="text" formControlName="especialidad">
+  </label>
+
+  <label>Número de Licencia Médica:
+    <input type="text" formControlName="numeroLicencia">
+  </label>
+</form>
