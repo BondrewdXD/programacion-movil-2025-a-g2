@@ -18,3 +18,7 @@ Después de completar este curso, debería ser capaz de:
 - Identificar las áreas principales y los lenguajes más comunes para el desarrollo back-end.
 - Diferenciar entre la World Wide Web e Internet.
 - Explicar cómo la nube beneficia al desarrollo web.
+
+## Pantallazos Módulo Completo
+
+![Curso_Final]((image.png))
