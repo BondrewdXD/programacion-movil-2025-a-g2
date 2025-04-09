@@ -21,4 +21,4 @@ Después de completar este curso, debería ser capaz de:
 
 ## Pantallazos Módulo Completo
 
-![Curso_Final]((image.png))
+![Curso_Final](image.png)
