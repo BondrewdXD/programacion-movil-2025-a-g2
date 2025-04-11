@@ -15,3 +15,7 @@ Después de completar este curso, debería ser capaz de:
 - Describir el modelo de cuadro CSS y los componentes de los cuadros CSS.
 - Describir las buenas prácticas para escribir código HTML y CSS.
 - Describir las características principales de un entorno de desarrollo integrado (IDE) que ayudan a mejorar el flujo de trabajo de los desarrolladores web.
+
+## Pantallazos Módulo Completo
+
+![Curso_Final](image.png)
