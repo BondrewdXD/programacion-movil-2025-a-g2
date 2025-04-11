@@ -16,3 +16,7 @@ Después de completar este curso, debería ser capaz de:
 - Identificar las fases del ciclo de vida del desarrollo de software (SDLC).
 - Diferenciar entre el enfoque en cascada y el enfoque ágil del desarrollo.
 - Destacar el marco Scrum.
+
+## Pantallazos Módulo Completo
+
+![Curso_Final](image.png)
