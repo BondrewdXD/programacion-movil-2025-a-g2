@@ -1,6 +1,6 @@
 # Fundamentos de HTML y CSS
 
-En este curso conocerá la estructura básica de un documento HTML y los elementos más comunes para la creación de una página web. Explorará los atributos HTML y comprenderá la importancia de organizar la información. Asimismo, conocerá CSS y explorará el modelo de cuadro CSS. Por último, descubrirá las buenas prácticas que utilizan los desarrolladores web para escribir código HTML y CSS
+En este curso conocerá la estructura básica de un documento HTML y los elementos más comunes para la creación de una página web. Explorará los atributos HTML y comprenderá la importancia de organizar la información. Asimismo, conocerá CSS y explorará el modelo de cuadro CSS. Por último, descubrirá las buenas prácticas que utilizan los desarrolladores web para escribir código HTML y CSS.
 
 ## Objetivos del curso
 
