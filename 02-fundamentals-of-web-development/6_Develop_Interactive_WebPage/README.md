@@ -13,3 +13,5 @@ Después de completar este curso, debería ser capaz de:
 - Utilizar **CSS** para añadir estilos a una página web
 - Utilizar **JavaScript** para crear elementos interactivos en una página web   
 - Realizar una **prueba funcional simple** en una página web
+
+![Curso_Final](image.png)
