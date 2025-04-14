@@ -16,3 +16,5 @@ Después de completar este curso, debería ser capaz de:
 - Identificar las competencias que necesitan los desarrolladores web
 - Distinguir entre los distintos roles de un equipo de desarrollo web
 - Identificar recursos para aprender más y estar siempre al día en el campo del desarrollo web
+
+![Curso_Final](image.png)
