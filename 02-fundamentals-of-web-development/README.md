@@ -28,3 +28,7 @@ Después de completar **Fundamentos del desarrollo web**, debería ser capaz de:
 - Reconocer el mercado laboral, las responsabilidades y los conjuntos de competencias de un profesional del desarrollo web, así como los recursos y las oportunidades de aprendizaje a explorar.
 
 Los conocimientos y las habilidades de estos cursos se basan unos en otros, por lo que SkillsBuild recomienda completar los cursos en el orden en que se presentan.
+
+![Curso_Final](image.png)
+![Curso_Final](image1.png)
+
