@@ -29,8 +29,8 @@ Después de completar **Fundamentos del desarrollo web**, debería ser capaz de:
 
 Los conocimientos y las habilidades de estos cursos se basan unos en otros, por lo que SkillsBuild recomienda completar los cursos en el orden en que se presentan.
 
-![Curso_Final](image2.png)
 ![Curso_Final](image1.png)
 
+![Curso_Final](image2.png)
 
 ![Credly_Credencial](image.png)
