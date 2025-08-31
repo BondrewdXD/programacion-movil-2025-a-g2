@@ -1,0 +1,15 @@
+<h2>Registro de Enfermero</h2>
+<app-persona></app-persona> <!-- 👈 Mostramos el formulario de PersonaComponent -->
+<form [formGroup]="enfermeroForm">
+    <label>Turno Asignado:
+        <select formControlName="turnoAsignado">
+          <option value="mañana">Mañana</option>
+          <option value="tarde">Tarde</option>
+          <option value="noche">Noche</option>
+        </select>
+      </label>
+    
+      <label>Área de Atención:
+        <input type="text" formControlName="areaAtencion">
+      </label>
+</form>

@@ -1,0 +1,14 @@
+<h2>Registro de Paciente</h2>
+<app-persona></app-persona> <!-- 👈 Mostramos el formulario de PersonaComponent -->
+<form [formGroup]="pacienteForm">
+    <label>Número de Historia Clínica:
+        <input type="text" formControlName="numeroHistoriaClinica">  <!-- Nuevo campo -->
+      </label>
+    
+      <label>Tipo de Afiliación:
+        <select formControlName="tipoAfiliacion">
+          <option value="eps">EPS</option>
+          <option value="particular">Particular</option>
+        </select>
+      </label>
+</form>

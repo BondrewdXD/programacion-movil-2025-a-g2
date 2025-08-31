@@ -1,0 +1,33 @@
+<div class="card">
+  <h2>Gestión de Personal</h2>
+
+  <form [formGroup]="personalMedicoForm">
+    <label>Nombre:
+      <input type="text" formControlName="nombre">
+    </label>
+
+    <label>Apellido:
+      <input type="text" formControlName="apellido">
+    </label>
+
+    <label>Edad:
+      <input type="number" formControlName="edad">
+    </label>
+
+    <label>Correo Electrónico:
+      <input type="email" formControlName="correoElectronico">
+    </label>
+
+    <div class="buttons">
+      <button type="button" (click)="agregarPersonal()" [disabled]="personalMedicoForm.invalid">Agregar</button>
+      <button type="button" (click)="consultarPersonal()">Consultar</button>
+    </div>
+  </form>
+  <ul>
+    <li *ngFor="let persona of personalList; let i = index">
+      {{ persona.nombre }} {{ persona.apellido }} - {{ persona.edad }} años - {{ persona.correoElectronico }}
+      <button (click)="modificarPersonal(i)">Modificar</button>
+      <button (click)="eliminarPersonal(i)">Eliminar</button>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,25 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Gestión de Personal Médico</ion-title>
+  </ion-toolbar>
+  <ion-toolbar>
+    <ion-segment (ionChange)="cambiarVista($event)">
+      <ion-segment-button [routerLink]="['/home/medico']" value="medico">
+        <ion-label>Médico</ion-label>
+      </ion-segment-button>
+      <ion-segment-button [routerLink]="['/home/paciente']" value="paciente">
+        <ion-label>Paciente</ion-label>
+      </ion-segment-button>
+      <ion-segment-button [routerLink]="['/home/enfermero']" value="enfermero">
+        <ion-label>Enfermero</ion-label>
+      </ion-segment-button>
+      <ion-segment-button [routerLink]="['/home/recepcionista']" value="recepcionista">
+        <ion-label>Recepcionista</ion-label>
+      </ion-segment-button>
+    </ion-segment>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <router-outlet></router-outlet> <!-- Esto es donde se muestra el componente seleccionado -->
+</ion-content>
